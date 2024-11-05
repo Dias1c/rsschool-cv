@@ -1,6 +1,7 @@
 # CV
 
-This cv created to complete [RSS task](https://github.com/rolling-scopes-school/tasks/blob/d70743c24e9e33d92e7df8b44a063dc9d8ce6983/tasks/cv/en/git-markdown.md)
+> [!NOTE]
+> This cv was created to complete [RSS task](https://github.com/rolling-scopes-school/tasks/blob/d70743c24e9e33d92e7df8b44a063dc9d8ce6983/tasks/cv/en/git-markdown.md)
 
 ## Full Name
 
